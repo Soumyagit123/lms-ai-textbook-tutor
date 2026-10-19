@@ -1,4 +1,8 @@
-# LMS Book Ingestion — Python Project
+# LMS AI Textbook Tutor & Ingestion Service
+> Agentic Textbook Ingestion & AI Tutor RAG service for LMS. Features PDF chunking, diagram extraction via PyMuPDF/Cloudinary, Matryoshka vector search in Qdrant, Cohere reranking, and LangGraph-driven Gemini SSE streaming with authentic syllabus citations and LaTeX math formatting.
+
+---
+
 ## Textbook PDF → Qdrant Vector DB Ingestion Pipeline
 
 This is a standalone Python project that ingests school textbook PDFs into a Qdrant vector database
