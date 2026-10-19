@@ -1,0 +1,17 @@
+# PDF Processing
+PyMuPDF>=1.24.7
+pymupdf4llm>=0.0.17
+
+# Text Chunking
+langchain-text-splitters>=0.3.2
+
+# Vector Database
+qdrant-client>=1.9.1
+
+# Google AI (Embeddings — gemini-embedding-001, 768-dim via output_dimensionality)
+google-genai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.1
+Pillow>=10.4.0
+tqdm>=4.66.4
