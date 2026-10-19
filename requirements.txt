@@ -1,17 +1,33 @@
-# PDF Processing
+# Web Server & API Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.12
+pydantic>=2.8.0
+
+# PDF Processing & Vision
 PyMuPDF>=1.24.7
 pymupdf4llm>=0.0.17
+Pillow>=10.4.0
 
-# Text Chunking
-langchain-text-splitters>=0.3.2
+# Text Chunking & AI Orchestration
+langchain-core>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
 
-# Vector Database
+# Vector Database & Retrieval
 qdrant-client>=1.9.1
+cohere>=5.5.0
 
-# Google AI (Embeddings — gemini-embedding-001, 768-dim via output_dimensionality)
+# Google AI (Embeddings & LLM)
 google-genai>=1.0.0
 
-# Utilities
+# Cloud & Storage (Optional for CDN persistent diagram storage)
+cloudinary>=1.40.0
+
+# Utilities & Logging
 python-dotenv>=1.0.1
-Pillow>=10.4.0
+structlog>=24.4.0
 tqdm>=4.66.4
+httpx>=0.27.0
+
