@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "book_title": "NCERT Mathematics Class 10",
+    "board": "CBSE"
+  },
+  "ch01_real_numbers.pdf": {
+    "page_offset": 1,
+    "chapter_name": "Real Numbers"
+  },
+  "ch02_polynomials.pdf": {
+    "page_offset": 10,
+    "chapter_name": "Polynomials"
+  },
+  "ch03_pair_of_linear_equations_in_two_variables.pdf": {
+    "page_offset": 24,
+    "chapter_name": "Pair of Linear Equations in Two Variables"
+  },
+  "ch04_quadratic_equations.pdf": {
+    "page_offset": 38,
+    "chapter_name": "Quadratic Equations"
+  },
+  "ch05_arithmetic_progressions.pdf": {
+    "page_offset": 49,
+    "chapter_name": "Arithmetic Progressions"
+  },
+  "ch06_triangles.pdf": {
+    "page_offset": 73,
+    "chapter_name": "Triangles"
+  },
+  "ch07_coordinate_geometry.pdf": {
+    "page_offset": 99,
+    "chapter_name": "Coordinate Geometry"
+  },
+  "ch08_introduction_to_trigonometry.pdf": {
+    "page_offset": 113,
+    "chapter_name": "Introduction to Trigonometry"
+  },
+  "ch09_some_applications_of_trigonometry.pdf": {
+    "page_offset": 133,
+    "chapter_name": "Some Applications of Trigonometry"
+  },
+  "ch10_circles.pdf": {
+    "page_offset": 144,
+    "chapter_name": "Circles"
+  },
+  "ch11_areas_related_to_circles.pdf": {
+    "page_offset": 154,
+    "chapter_name": "Areas Related to Circles"
+  },
+  "ch12_surface_areas_and_volumes.pdf": {
+    "page_offset": 161,
+    "chapter_name": "Surface Areas and Volumes"
+  },
+  "ch13_statistics.pdf": {
+    "page_offset": 171,
+    "chapter_name": "Statistics"
+  },
+  "ch14_probability.pdf": {
+    "page_offset": 202,
+    "chapter_name": "Probability"
+  }
+}

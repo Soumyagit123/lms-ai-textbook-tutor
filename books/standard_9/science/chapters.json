@@ -1,0 +1,19 @@
+{
+  "board": "CBSE",
+  "chapters": {
+    "1": {
+      "chapter_number": 1,
+      "title": "Chapter 1-Exploration: Entering the World of Secondary Science",
+      "chapter_name": "Chapter 1-Exploration: Entering the World of Secondary Science",
+      "page_offset": 0,
+      "filename": "iesc101.pdf"
+    }
+  },
+  "iesc101.pdf": {
+    "chapter_number": 1,
+    "title": "Chapter 1-Exploration: Entering the World of Secondary Science",
+    "chapter_name": "Chapter 1-Exploration: Entering the World of Secondary Science",
+    "page_offset": 0,
+    "filename": "iesc101.pdf"
+  }
+}
